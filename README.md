@@ -178,5 +178,3 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 # time-tracking-junior
-#   r e a c t - t i m e - t r a c k i n g  
- 
